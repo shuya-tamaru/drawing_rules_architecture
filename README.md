@@ -21,9 +21,8 @@ drawing-rules-architecture/
 
 ## 使い方
 
-1. **図面枠テンプレートの利用**
+1. **テンプレートの利用**
    - `rhino_drawing_frame_templates`フォルダから、Rhinoのバージョン（v6/v7/v8）に合わせて`.3dm`ファイルをダウンロードしてください。
-   - 図面枠は必ずレイアウト空間（Paper Space）に配置してください。
 
 2. **図面ルールの参照**
    - `rhino-rules/`フォルダ内のMarkdownファイルを参照し、各種ルールに従って作図してください。
